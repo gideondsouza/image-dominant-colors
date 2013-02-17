@@ -128,6 +128,7 @@ This is how it works, I would advise leaving the clusters to a default 3 which w
     my $r = $dmt->getDominantColors();
     
     print Dumper($r);
+	#This outputs the following:
     # [
     #           {
     #             'r' => 31,

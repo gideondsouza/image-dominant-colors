@@ -70,7 +70,7 @@ __END__
 
 =head1 NAME
 
-Image::DominantColors - Internal Class to represent centroids.
+Image::ColorCollection - Internal Class to represent centroids.
 
 =head1 VERSION
 
