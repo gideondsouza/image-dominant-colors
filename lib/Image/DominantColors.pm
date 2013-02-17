@@ -98,7 +98,7 @@ __END__
 
 =head1 NAME
 
-Image::DominantColors - Find dominant colors in an image.
+Image::DominantColors - Find dominant colors in an image with k-means clustering.
 
 =head1 VERSION
 
